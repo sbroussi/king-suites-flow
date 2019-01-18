@@ -1,0 +1,2 @@
+feature A from dev1
+feature A from dev2
